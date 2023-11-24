@@ -1,0 +1,31 @@
+description: Learn to plan and build back end web applications as a team.
+board: 1
+path:
+  - name: 1. Node.js
+    description: >-
+      Use nodejs and express to build RESTful API
+    url: https://github.com/HackYourFutureBelgium/bf-node-js
+    weeks: 3
+    milestone: 1
+    state: open
+  - name: 2. SQL Databases
+    description: >-
+      Learn using relational database to create, update and access data
+    url: https://github.com/HackYourFutureBelgium/bf-sql
+    weeks: 2
+    milestone: 2
+    state: open
+  - name: 3. NoSQL Databases
+    description: >-
+      Learn using non-relational database to create, update and access data
+    url: https://github.com/HackYourFutureBelgium/bf-no-sql
+    weeks: 2
+    milestone: 3
+    state: open
+  - name: 4. Deployment
+    description: >-
+      Learn how to deploy your applications to hosting platforms
+    url: https://github.com/HackYourFutureBelgium/bf-deployment
+    weeks: 1
+    milestone: 4
+    state: open
